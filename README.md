@@ -5,7 +5,7 @@
 Music. Music is my passion...
 However, I am attempting to get into coding.
 
-- 🌱 I’m currently Doing a free 5 day coding course
+- 🌱 I’m currently Doing a course with AiCore
 
 
 <!---
